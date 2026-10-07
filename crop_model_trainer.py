@@ -9,7 +9,7 @@ import os # Import the os module to check for file existence
 
 # The full, absolute path to the local dataset file you downloaded.
 # Using a raw string (r"...") is the best practice for Windows paths.
-DATASET_FILENAME = r"C:\Users\Jason Dsouza\Desktop\crop_project\Crop_recommendation.csv"
+DATASET_FILENAME = r"C:\Users\Joshua Dsouza\Desktop\crop_project\Crop_recommendation.csv"
 
 def load_and_prepare_data(filename):
     """
